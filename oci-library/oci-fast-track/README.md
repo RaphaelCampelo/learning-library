@@ -11,7 +11,7 @@ OCI Fast Track main goal is to bring customer's attention to Oracle Cloud Platfo
 | __Exercises__  | 
 |-------------|
 | [LAB1-Compartments](https://https://oracle.github.io/learning-library/oci-library/oci-fast-track/LAB1-Compartments/Introduction.html)         |
-| LAB2-Networking         |
+| [LAB2-Networking](https://oracle.github.io/learning-library/oci-library/oci-fast-track/LAB2-Networking/Networking.html)         |
 | LAB3-Compute         |
 | LAB4-Storage         |
 | LAB5-File Storage Service         |
